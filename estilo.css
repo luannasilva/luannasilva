@@ -1,0 +1,48 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:300,400,800');
+
+html {
+   font-family: 'Open Sans',sans-serif;
+}
+header {
+  background-image: url("greve-geral.png");
+  background-color: gray;
+  color:white
+
+}
+
+
+.vermelha {
+background-color:#CF2227;
+ color: white;
+  }
+
+  .branco {
+    color:#CF2227;
+  }
+
+button {
+  background-color: transparent;
+  color: white;
+  font-weight: bold;
+}
+ h1,p{
+
+   font-weight: lighter;
+
+   }
+
+h1 {
+
+   font-size: 64px;
+ }
+.data{
+  font-size: 64px;
+}
+
+header, section, footer{
+  padding: 20px 20px 70px 20px;
+}
+
+body, p {
+   margin: 0
+}
